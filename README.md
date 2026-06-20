@@ -17,31 +17,31 @@ A simple command-line Tic Tac Toe game developed in Python. This project allows 
 
 ## Project Structure
 
-```
-1st-Repository/
+```text
+Tic-Tac-Toe-Game/
 │
-├── tic-tac-toe.py
-└── README.md
+├── Tic-Tac-Toe-Game.py   # Main game file
+└── README.md             # Project documentation
 ```
 
 ## How to Run
 
-1. Clone the repository:
+1. Clone the repository
 
 ```bash
-git clone https://github.com/ChhaviAmbasta/1st-Repository.git
+git clone https://github.com/ChhaviAmbasta/Tic-Tac-Toe-Game.git
 ```
 
-2. Navigate to the project directory:
+2. Navigate to the project directory
 
 ```bash
-cd 1st-Repository
+cd Tic-Tac-Toe-Game
 ```
 
-3. Run the program:
+3. Run the game
 
 ```bash
-python tic-tac-toe.py
+python Tic-Tac-Toe-Game.py
 ```
 
 ## Gameplay
